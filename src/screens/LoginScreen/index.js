@@ -14,11 +14,25 @@ export default function LoginScreen({navigation}) {
 
   const dadosUsers = [
     {
-      nome:"Mateus Sousa da Mota",
+      nome:"Mateus Sousa",
       idade:19,
       user:"Maath",
       password:"teste",
       foto:"https://uploads.tenhomaisdiscosqueamigos.com/2024/11/HiCEuawZ-linkin-park-luca-valerio-tmdqa-03.webp",
+    },
+    {
+      nome:"Leonardo Pereira",
+      idade:19,
+      user:"zareado",
+      password:"goblincasca",
+      foto:"https://i.pinimg.com/736x/0c/69/33/0c6933ec5329daf4dc8098747bca01b2.jpg",
+    },
+    {
+      nome:"Nickolas Max",
+      idade:19,
+      user:"Nickao",
+      password:"depay",
+      foto:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUoy2MssHzpElmNJKvvacbXoROMQQBapGhgA&s"
     }
   ]
 
